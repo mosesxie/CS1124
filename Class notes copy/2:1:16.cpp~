@@ -1,0 +1,10 @@
+int main(){
+
+  string s2 = "Twas brilling";
+  for (char c : s2){
+    cout << c+1 < ' ';
+    
+  }
+  cout << endl;
+  
+}
